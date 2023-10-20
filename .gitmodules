@@ -1,0 +1,3 @@
+[submodule "src/open-pose-editor"]
+	path = src/open-pose-editor
+	url = https://github.com/ZhUyU1997/open-pose-editor.git
