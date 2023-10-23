@@ -2,6 +2,6 @@ title: OpenPose Editor Extension
 version: 0.0.1
 description: OpenPose Editor based on the excellent ZhUyU1997/open-pose-editor repository
 author: Georg Zoeller
-origin: https://github.com/georgzoeller/omni-extension-openpose-editor.git
+origin: https://github.com/omnitool-community/omni-extension-openpose-editor.git
 client:
   addToWorkbench: true
